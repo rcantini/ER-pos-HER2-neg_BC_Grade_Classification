@@ -51,11 +51,4 @@ An *overall quality* score was also computed as the mean of these four. To reduc
 
 See [`experts_evaluation.xlsx`](./LLM-generated-reports/experts_evaluation.xlsx) for:
 - Scores achieved per patient and criterion  
-- Post-evaluation model mapping  
-
-
-## ✉️ Contact
-
-For questions, collaborations, or support, feel free to contact:
-- *Riccardo Cantini* – [riccardo.cantini@unical.it](mailto:riccardo.cantini@unical.it)  
-- *Marianna Talia* – [marianna.talia@unical.it](mailto:marianna.talia@unical.it)
+- Post-evaluation model mapping
